@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/User/Downloads/python1/media/videos/1080p60/partial_movie_files/AnimatedFormulas/3977891868_1542556967_223132457.mp4'
+file 'file:C:/Users/User/Downloads/python1/media/videos/1080p60/partial_movie_files/AnimatedFormulas/2852726489_3890345977_2031120112.mp4'
+file 'file:C:/Users/User/Downloads/python1/media/videos/1080p60/partial_movie_files/AnimatedFormulas/2852726489_1316185078_1342086990.mp4'
+file 'file:C:/Users/User/Downloads/python1/media/videos/1080p60/partial_movie_files/AnimatedFormulas/2852726489_3890345977_921135530.mp4'
+file 'file:C:/Users/User/Downloads/python1/media/videos/1080p60/partial_movie_files/AnimatedFormulas/2852726489_1886429428_1426861489.mp4'
+file 'file:C:/Users/User/Downloads/python1/media/videos/1080p60/partial_movie_files/AnimatedFormulas/2852726489_1782562226_1426861489.mp4'
+file 'file:C:/Users/User/Downloads/python1/media/videos/1080p60/partial_movie_files/AnimatedFormulas/2852726489_4247560717_1426861489.mp4'
+file 'file:C:/Users/User/Downloads/python1/media/videos/1080p60/partial_movie_files/AnimatedFormulas/2852726489_3890345977_2072965759.mp4'
+file 'file:C:/Users/User/Downloads/python1/media/videos/1080p60/partial_movie_files/AnimatedFormulas/2852726489_3913595294_1505755984.mp4'

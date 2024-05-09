@@ -1,0 +1,12 @@
+#TestProgram
+#Name
+#Manim Community v0.18.1
+
+from manim import *
+
+
+class CreateCircle(Scene):
+    def construct(self):
+        circle = Circle()  
+        circle.set_fill(PINK, opacity=0.5)  
+        self.play(Create(circle))

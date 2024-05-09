@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/User/Downloads/python1/media/videos/1080p60/partial_movie_files/AnimatedText/3977891868_941008285_223132457.mp4'
+file 'file:C:/Users/User/Downloads/python1/media/videos/1080p60/partial_movie_files/AnimatedText/2852726489_3890345977_1624641717.mp4'
+file 'file:C:/Users/User/Downloads/python1/media/videos/1080p60/partial_movie_files/AnimatedText/2852726489_1658653690_1944896521.mp4'
+file 'file:C:/Users/User/Downloads/python1/media/videos/1080p60/partial_movie_files/AnimatedText/2852726489_3890345977_2973681851.mp4'
+file 'file:C:/Users/User/Downloads/python1/media/videos/1080p60/partial_movie_files/AnimatedText/2852726489_1767538506_2390728425.mp4'
+file 'file:C:/Users/User/Downloads/python1/media/videos/1080p60/partial_movie_files/AnimatedText/2852726489_3890345977_1894404568.mp4'
+file 'file:C:/Users/User/Downloads/python1/media/videos/1080p60/partial_movie_files/AnimatedText/2852726489_1780961108_3561936888.mp4'
